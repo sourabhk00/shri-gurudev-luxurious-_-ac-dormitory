@@ -1,0 +1,7 @@
+{
+  "name": "Shri Gurudev Luxurious | AC Dormitory",
+  "description": "A luxurious and affordable AC dormitory located near Surat Railway Station, offering 24-hour booking and premium amenities.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
